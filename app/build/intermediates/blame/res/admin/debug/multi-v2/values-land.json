@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/incremental/mergeAdminDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/shahzaibshahid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e2940b3f9b98500eb8cd2bd71a7d73b1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/res/values-land/styles_oppia.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "865",
+                        "endLines": "30",
+                        "endColumns": "12",
+                        "endOffsets": "1366"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "829"
+                    }
+                },
+                {
+                    "source": "/Users/shahzaibshahid/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/73d2206aedd8337491f2165dc9eb6c75/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "834",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1011"
+                    }
+                }
+            ]
+        }
+    ]
+}

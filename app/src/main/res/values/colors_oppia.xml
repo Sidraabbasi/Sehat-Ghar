@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<color name="pressed_om">@color/color_start</color>
+    <color name="highlight_light">@color/color_start</color>
+    <color name="highlight_mid">@color/color_start</color>
+    <color name="highlight_dark">@color/color_start</color>
+    <color name="highlight_shadow">@color/color_start</color>
+    <color name="highlight_secondary">@color/color_start</color>
+    <color name="activity_completed_filter">@color/color_start</color>
+
+    <color name="tab_bg_color">@color/white</color>
+    <color name="tab_text_color">@color/text_light</color>
+    <color name="tab_selected_text_color">@color/text_light</color>
+
+    <color name="color_start"> #5890DC </color>
+    <color name="color_end"> #554DE3 </color>
+</resources>

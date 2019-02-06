@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/jniLibs"/></dataSet><dataSet config="admin"><source path="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/admin/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/debug/jniLibs"/></dataSet><dataSet config="adminDebug"><source path="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/adminDebug/jniLibs"/></dataSet></merger>

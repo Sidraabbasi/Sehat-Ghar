@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/incremental/mergeAdminDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/res/values-v14/styles_oppia.xml",
+                    "from": {
+                        "startLines": "70,60,81,91,55,21,50,76",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3700,3165,4254,4762,2955,860,2800,4026",
+                        "endLines": "73,68,89,93,58,48,52,79",
+                        "endColumns": "12,16,12,12,12,12,12,12",
+                        "endOffsets": "3936,3694,4756,4933,3159,2790,2948,4248"
+                    },
+                    "to": {
+                        "startLines": "2,11,20,29,32,36,64,90",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,572,1106,1613,1789,1998,3933,5856",
+                        "endLines": "5,19,28,31,35,63,66,93",
+                        "endColumns": "12,16,12,12,12,12,12,12",
+                        "endOffsets": "291,1101,1608,1784,1993,3928,4081,6078"
+                    }
+                },
+                {
+                    "source": "/Users/shahzaibshahid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e2940b3f9b98500eb8cd2bd71a7d73b1/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895,1317,1437,1569,1689,1752,1906,1969",
+                        "endLines": "6,7,8,14,20,21,22,23,24,27,28,29",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "326,397,480,890,1312,1432,1564,1684,1747,1901,1964,2096"
+                    },
+                    "to": {
+                        "startLines": "6,67,68,69,75,81,82,83,84,85,88,89",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "296,4086,4157,4240,4650,5072,5192,5324,5444,5507,5661,5724",
+                        "endLines": "10,67,68,74,80,81,82,83,84,87,88,89",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "567,4152,4235,4645,5067,5187,5319,5439,5502,5656,5719,5851"
+                    }
+                }
+            ]
+        }
+    ]
+}

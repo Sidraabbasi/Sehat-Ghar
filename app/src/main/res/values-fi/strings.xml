@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY appName "OppiaMobile">
+    <!ENTITY companyName "Digital Campus"> ]>
+<resources>
+    <string name="app_name">&appName;</string>
+    <string name="app_logo_alt">&companyName; Liikemerkki</string>
+    <string name="about_logged_in">Kirjautunut sisään nimellä: %1$s</string>
+    <string name="about_not_logged_in">Ei kirjautuneena</string>
+    <string name="menu_download">Lataa Kursseja</string>
+    <string name="menu_language">Vaihda kieltä</string>
+    <string name="menu_settings">Asetukset</string>
+    <string name="menu_search">Etsi</string>
+    <string name="login_password_title">Salasana</string>
+    <string name="register_form_password_title">Salasana (*)</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+    <string name="ok">Selvä</string>
+    <string name="cancel">Peru</string>
+    <string name="open">Avaa</string>
+    <string name="tag_label">%1$s (%2$d)</string>
+    <string name="media_file_size">%1$.1fMt</string>
+    <string name="search.activity_title">Etsi</string>
+    <string name="prefServer">Palvelin</string>
+    <string name="register_form_firstname_title">Etunimi (*)</string>
+    <string name="register_form_lastname_title">Sukunimi (*)</string>
+    <string name="register_form_username_title">Käyttäjätunnus (*)</string>
+    <string name="prefUser">Käyttäjätunnus</string>
+    <string name="register_form_email_title">Sähköposti (*)</string>
+    <string name="reset_username_title">Käyttäjätunnus tai sähköposti</string>
+    <string name="warning">Varokaa</string>
+    <string name="title_login">Kirjaudu sisään</string>
+    <string name="tab_title_welcome">Tervetuloa</string>
+    <string name="tab_title_login">Kirjaudu sisään</string>
+    <string name="widget_resource_open_file">Avaa \'%1$s\'</string>
+    <string name="course_context_delete">Poista</string>
+    <string name="login_username_title">Käyttäjätunnus</string>
+    <string name="close">Sulje</string>
+    <string name="download">Lataa</string>
+    <string name="change_language">Vaihda Lieltä</string>
+    <string name="downloaded">Ladattu</string>
+    <string name="error">Virhe</string>
+    <string name="error_resource_not_found">Tiedosto: \'%1$s\' ei löytynyt.</string>
+    <string name="prefServer_errorTitle">Virheellinen URL-osoite</string>
+    <string name="register_form_jobtitle_title">Työnimike</string>
+    <string name="title_prefs">Asetukset</string>
+    <string name="prefAdvanced">Lisäasetukset</string>
+    <string name="loading">Ladataan</string>
+    <string name="loading_courses">Ladataan kursseja</string>
+    <string name="widget_quiz_next">Seuraava</string>
+    <string name="widget_quiz_prev">Edellinen</string>
+    <string name="fragment_welcome_title">Tervetuola</string>
+    <string name="menu_help">Ohje</string>
+    <string name="logout">Kirjaudu ulos</string>
+    <string name="menu_logout">Kirjaudu ulos</string>
+</resources>
+

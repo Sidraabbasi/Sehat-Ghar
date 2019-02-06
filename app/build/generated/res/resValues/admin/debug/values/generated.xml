@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from the variant -->
+    <string name="version_name" translatable="false">6.5.0</string>
+    <!-- Values from build type: debug -->
+    <string name="MENU_ALLOW_COURSE_DOWNLOAD_DEFAULT_VALUE" translatable="false">true</string>
+    <string name="MENU_ALLOW_LANGUAGE_DEFAULT_VALUE" translatable="false">true</string>
+    <string name="MENU_ALLOW_LOGOUT_DEFAULT_VALUE" translatable="false">true</string>
+    <string name="oppiaServerHost" translatable="false">oppia.abcd.international</string>
+    <string name="prefAdminPasswordDefault" translatable="false"></string>
+    <string name="prefServerDefault" translatable="false">https://oppia.abcd.international</string>
+
+</resources>
