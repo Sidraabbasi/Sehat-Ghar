@@ -56,7 +56,7 @@ public class ActionPointsListActivity extends AppActivity implements ActionPoint
         actionPointLayoutAdapter = new ActionPointLayoutAdapter(getApplicationContext(), actionPoints, course, this);
         LinearLayoutManager layoutManager
                 = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);
-        recyclerView.setLayoutManager(layoutManager);
+        recyclerView.setLayoutManager(new GridLayoutManager(this, 2));
         recyclerView.setScrollbarFadingEnabled(false);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
             recyclerView.setScrollBarFadeDuration(0);

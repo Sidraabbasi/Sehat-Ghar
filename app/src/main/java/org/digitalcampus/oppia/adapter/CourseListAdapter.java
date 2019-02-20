@@ -60,7 +60,7 @@ public class CourseListAdapter extends RecyclerView.Adapter<CourseListAdapter.Co
 
 		this.ctx = context;
 		this.courseList = courseList;
-        Collections.reverse(courseList);
+
 		prefs = PreferenceManager.getDefaultSharedPreferences(ctx);
 		this.onItemInteraction  = onItemInteraction;
 	}

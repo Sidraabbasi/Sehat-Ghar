@@ -240,7 +240,7 @@ MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/shahzai
 activity#org.digitalcampus.oppia.activity.StartUpActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:45:9-55:20
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:48:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:48:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:47:13-45
 	android:theme
@@ -268,7 +268,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.CourseIndexActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:63:9-68:20
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:66:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:66:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:65:13-64
 	android:theme
@@ -278,7 +278,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.ActionPointDetailedActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:69:9-74:20
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:72:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:72:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:71:13-51
 	android:theme
@@ -288,7 +288,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.AnimateVideoActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:75:9-78:61
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:77:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:77:13-49
 	android:theme
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:78:13-59
 	android:name
@@ -296,7 +296,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.ActionPointsListActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:79:9-84:20
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:82:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:82:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:81:13-51
 	android:theme
@@ -316,7 +316,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.DownloadActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:90:9-94:56
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:93:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:93:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:92:13-60
 	android:theme
@@ -326,7 +326,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.TagSelectActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:95:9-101:20
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:99:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:99:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:98:13-62
 	android:configChanges
@@ -338,7 +338,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.PrefsActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:102:9-106:56
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:105:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:105:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:104:13-48
 	android:theme
@@ -356,7 +356,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.WelcomeActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:111:9-116:56
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:114:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:114:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:113:13-45
 	android:windowSoftInputMode
@@ -368,7 +368,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.OppiaMainActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:118:9-124:15
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:121:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:121:13-49
 	android:label
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:120:13-45
 	android:windowSoftInputMode
@@ -478,7 +478,7 @@ ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/And
 activity#org.digitalcampus.oppia.activity.LandingActivity
 ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:190:9-193:54
 	android:screenOrientation
-		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:192:13-50
+		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:192:13-49
 	android:theme
 		ADDED from /Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/AndroidManifest.xml:193:13-52
 	android:name

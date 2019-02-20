@@ -184,6 +184,10 @@
         "source": "/Users/shahzaibshahid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/7fb222e7ea35c2ff0a376173e13d18bf/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
     },
     {
+        "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/drawable_round_corner.xml.flat",
+        "source": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/res/drawable/round_corner.xml"
+    },
+    {
         "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/drawable-xhdpi_ab_transparent_om.9.png.flat",
         "source": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/res/drawable-xhdpi/ab_transparent_om.9.png"
     },
@@ -1400,10 +1404,6 @@
         "source": "/Users/shahzaibshahid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e2940b3f9b98500eb8cd2bd71a7d73b1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/drawable-xxxhdpi_courses_image_header.png.flat",
-        "source": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/res/drawable-xxxhdpi/courses_image_header.png"
-    },
-    {
         "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "/Users/shahzaibshahid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e2940b3f9b98500eb8cd2bd71a7d73b1/res/drawable/abc_seekbar_thumb_material.xml"
     },
@@ -1614,6 +1614,10 @@
     {
         "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/drawable-hdpi_tab_selected_om.9.png.flat",
         "source": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/res/drawable-hdpi/tab_selected_om.9.png"
+    },
+    {
+        "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/raw_animate2.mp4.flat",
+        "source": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/admin/res/raw/animate2.mp4"
     },
     {
         "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/color_abc_hint_foreground_material_light.xml.flat",
@@ -2686,6 +2690,10 @@
     {
         "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
         "source": "/Users/shahzaibshahid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/7fb222e7ea35c2ff0a376173e13d18bf/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/drawable-xxxhdpi_courses_image_header.jpg.flat",
+        "source": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/src/main/res/drawable-xxxhdpi/courses_image_header.jpg"
     },
     {
         "merged": "/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/res/merged/admin/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_dark_disabled.9.png.flat",

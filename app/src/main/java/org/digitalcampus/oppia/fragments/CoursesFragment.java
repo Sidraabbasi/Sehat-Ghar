@@ -10,6 +10,7 @@ import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AlertDialog;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -51,6 +52,7 @@ import org.digitalcampus.oppia.utils.ui.CourseContextMenuCustom;
 import org.digitalcampus.oppia.utils.ui.DrawerMenuManager;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Locale;
 
 import javax.inject.Inject;
@@ -136,7 +138,9 @@ public class CoursesFragment extends Fragment  implements
         courseList = (RecyclerView) rootView.findViewById(R.id.course_list);
         LinearLayoutManager layoutManager
                 = new LinearLayoutManager(getActivity(), LinearLayoutManager.HORIZONTAL, false);
-        courseList.setLayoutManager(layoutManager);
+      //  courseList.setLayoutManager(layoutManager);
+        courseList.setLayoutManager(new GridLayoutManager(getActivity(), 2));
+        Collections.reverse(courses);
         courseListAdapter = new CourseListAdapter(getContext(), courses,this);
         courseList.setAdapter(courseListAdapter);
         if (courses.size()>0) {
@@ -186,6 +190,7 @@ public class CoursesFragment extends Fragment  implements
             noCoursesView.setVisibility(View.GONE);
         }
         */
+        Collections.reverse(courses);
         courseListAdapter.notifyDataSetChanged();
        // this.updateReminders();
         this.scanMedia();
@@ -330,6 +335,8 @@ public class CoursesFragment extends Fragment  implements
     public interface  OnBackButtonClick {
         void navigateToHomeScreen ();
     }
+
+
 
     private void animateScanMediaMessage(){
         TranslateAnimation anim = new TranslateAnimation(0, 0, -200, 0);

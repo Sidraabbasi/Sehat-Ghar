@@ -2,13 +2,13 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="27"
-    build-mode="FULL"
+    build-mode="COLD"
     density="hdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1549352187383"
+    timestamp="1550424737132"
     token="-4290590972878239503"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -24,51 +24,15 @@
         duration="0" />
 
     <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/outputs/apk/admin/debug/app-admin-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1549352187383"
+        timestamp="1550422355968"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_1.apk"
@@ -77,13 +41,16 @@
             location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
+            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_5.apk"
+            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_3.apk"
+            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_6.apk"
@@ -97,6 +64,26 @@
         <artifact
             location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_9.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/outputs/apk/admin/debug/app-admin-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1550422912923"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/intermediates/split-apk/admin/debug/slices/slice_7.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1550424737132"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/shahzaibshahid/Downloads/oppia-mobile-android/app/build/outputs/apk/admin/debug/app-admin-debug.apk"
             type="SPLIT_MAIN" />

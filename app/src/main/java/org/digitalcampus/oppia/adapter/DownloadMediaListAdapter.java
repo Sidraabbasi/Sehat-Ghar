@@ -98,7 +98,7 @@ public class DownloadMediaListAdapter extends ArrayAdapter<Media> {
 
         viewHolder.mediaCourses.setText(courses);
         viewHolder.mediaTitle.setText(m.getFilename());
-        viewHolder.mediaPath.setText(m.getDownloadUrl());
+       // viewHolder.mediaPath.setText(m.getDownloadUrl());
 		if(m.getFileSize() != 0){
             viewHolder.mediaFileSize.setText(ctx.getString(R.string.media_file_size,m.getFileSize()/(1024*1024)));
 		} else {

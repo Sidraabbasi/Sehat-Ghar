@@ -82,6 +82,7 @@
                 android:layout_height="wrap_content"
                 android:text="تصویر پر کلک کریں"
                 android:textSize="20dp"
+                android:visibility="gone"
                 android:layout_gravity="center_horizontal"
                 />
             <WebView
@@ -128,7 +129,7 @@
                 android:id="@+id/topicsView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="920dp"
+
 
                  />
             <LinearLayout

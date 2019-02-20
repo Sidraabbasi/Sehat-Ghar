@@ -1,6 +1,7 @@
 package org.digitalcampus.oppia.activity;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
@@ -19,6 +20,8 @@ import org.digitalcampus.oppia.application.MobileLearning;
 import org.digitalcampus.oppia.fragments.CoursesFragment;
 import org.digitalcampus.oppia.fragments.HomeFragment;
 import org.digitalcampus.oppia.model.Activity;
+
+import java.util.List;
 
 public class OppiaMainActivity extends AppCompatActivity implements HomeFragment.OnCardInteraction, CoursesFragment.OnBackButtonClick , CourseIndexActivity.NavigationBarStatus {
 
@@ -99,6 +102,23 @@ public class OppiaMainActivity extends AppCompatActivity implements HomeFragment
         bottomNavigation.setCurrentItem(2);
         bottomNavigation.restoreBottomNavigation();
         mViewPager.setCurrentItem(2);
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (bottomNavigation.getCurrentItem() == 0) {
+            Intent intent = new Intent(Intent.ACTION_MAIN);
+            intent.addCategory(Intent.CATEGORY_HOME);
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            startActivity(intent);
+        }
+        else {
+            bottomNavigation.setCurrentItem(0);
+            bottomNavigation.hideBottomNavigation();
+            mViewPager.setCurrentItem(0);
+        }
+
+
     }
 
     @Override

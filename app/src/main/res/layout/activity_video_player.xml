@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@android:color/black"
     android:gravity="center_horizontal|center_vertical">
-    <include android:id="@+id/toolbar" layout="@layout/toolbar" />
+    <include android:id="@+id/toolbar" layout="@layout/toolbar" android:visibility="gone"/>
     <FrameLayout
         android:id="@+id/videoSurfaceContainer"
         android:layout_width="match_parent"

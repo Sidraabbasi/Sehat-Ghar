@@ -4234,39 +4234,40 @@ public final class R {
     public static final int progress_secondary_om=0x7f0800f7;
     public static final int quiz_cross=0x7f0800f8;
     public static final int quiz_tick=0x7f0800f9;
-    public static final int s1_ap=0x7f0800fa;
-    public static final int s2_ap=0x7f0800fb;
-    public static final int s3_ap=0x7f0800fc;
-    public static final int s4_ap=0x7f0800fd;
-    public static final int s5_ap=0x7f0800fe;
-    public static final int score_icon=0x7f0800ff;
-    public static final int scorecard_quiz_item=0x7f080100;
-    public static final int scorecard_quiz_item_attempted=0x7f080101;
-    public static final int scorecard_quiz_item_passed=0x7f080102;
-    public static final int search=0x7f080103;
-    public static final int selectable_background_om=0x7f080104;
-    public static final int settings_icon=0x7f080105;
-    public static final int signout=0x7f080106;
-    public static final int spinner_ab_default_om=0x7f080107;
-    public static final int spinner_ab_disabled_om=0x7f080108;
-    public static final int spinner_ab_focused_om=0x7f080109;
-    public static final int spinner_ab_pressed_om=0x7f08010a;
-    public static final int spinner_background_ab_om=0x7f08010b;
-    public static final int start_bg=0x7f08010c;
-    public static final int storage_step1=0x7f08010d;
-    public static final int storage_step2=0x7f08010e;
-    public static final int storage_step3=0x7f08010f;
-    public static final int storage_title=0x7f080110;
-    public static final int tab_indicator_ab_om=0x7f080111;
-    public static final int tab_selected_focused_om=0x7f080112;
-    public static final int tab_selected_om=0x7f080113;
-    public static final int tab_selected_pressed_om=0x7f080114;
-    public static final int tab_unselected_focused_om=0x7f080115;
-    public static final int tab_unselected_om=0x7f080116;
-    public static final int tab_unselected_pressed_om=0x7f080117;
-    public static final int text_box_round=0x7f080118;
-    public static final int top_shadow_gradient=0x7f080119;
-    public static final int trophy=0x7f08011a;
+    public static final int round_corner=0x7f0800fa;
+    public static final int s1_ap=0x7f0800fb;
+    public static final int s2_ap=0x7f0800fc;
+    public static final int s3_ap=0x7f0800fd;
+    public static final int s4_ap=0x7f0800fe;
+    public static final int s5_ap=0x7f0800ff;
+    public static final int score_icon=0x7f080100;
+    public static final int scorecard_quiz_item=0x7f080101;
+    public static final int scorecard_quiz_item_attempted=0x7f080102;
+    public static final int scorecard_quiz_item_passed=0x7f080103;
+    public static final int search=0x7f080104;
+    public static final int selectable_background_om=0x7f080105;
+    public static final int settings_icon=0x7f080106;
+    public static final int signout=0x7f080107;
+    public static final int spinner_ab_default_om=0x7f080108;
+    public static final int spinner_ab_disabled_om=0x7f080109;
+    public static final int spinner_ab_focused_om=0x7f08010a;
+    public static final int spinner_ab_pressed_om=0x7f08010b;
+    public static final int spinner_background_ab_om=0x7f08010c;
+    public static final int start_bg=0x7f08010d;
+    public static final int storage_step1=0x7f08010e;
+    public static final int storage_step2=0x7f08010f;
+    public static final int storage_step3=0x7f080110;
+    public static final int storage_title=0x7f080111;
+    public static final int tab_indicator_ab_om=0x7f080112;
+    public static final int tab_selected_focused_om=0x7f080113;
+    public static final int tab_selected_om=0x7f080114;
+    public static final int tab_selected_pressed_om=0x7f080115;
+    public static final int tab_unselected_focused_om=0x7f080116;
+    public static final int tab_unselected_om=0x7f080117;
+    public static final int tab_unselected_pressed_om=0x7f080118;
+    public static final int text_box_round=0x7f080119;
+    public static final int top_shadow_gradient=0x7f08011a;
+    public static final int trophy=0x7f08011b;
   }
   public static final class id {
     public static final int TAG_ACTIVITY_DIGEST=0x7f090000;
@@ -4989,6 +4990,7 @@ public final class R {
   }
   public static final class raw {
     public static final int animate=0x7f0d0000;
+    public static final int animate2=0x7f0d0001;
   }
   public static final class string {
     public static final int MENU_ALLOW_COURSE_DOWNLOAD_DEFAULT_VALUE=0x7f0e0000;

@@ -91,7 +91,7 @@ public class CourseVideoLayoutAdapter extends RecyclerView.Adapter<CourseVideoLa
             @Override
             public void onPageFinished(WebView view, String url) {
                 //We execute the necessary JS code to bind click on images with our JavascriptInterface
-                view.loadUrl(JSInterfaceForResourceImages.JSInjection);
+                //view.loadUrl(JSInterfaceForResourceImages.JSInjection);
             }
 
             // set up the page to intercept videos
